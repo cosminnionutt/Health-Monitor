@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029126186523",
+    "firebase_url": "https://health-monitor-cb730.firebaseio.com",
+    "project_id": "health-monitor-cb730",
+    "storage_bucket": "health-monitor-cb730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029126186523:android:7d0da1bea214c57c5ebabe",
+        "android_client_info": {
+          "package_name": "com.example.healthmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029126186523-cdqksipn9u3errba26qmfdgp92v87ec6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthmonitor",
+            "certificate_hash": "98e88eaa0703e4e123c6709afee795bee076c2f5"
+          }
+        },
+        {
+          "client_id": "1029126186523-ne5sb808k4mb8odtri1lan18f6uaalbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeuz11lAuNL4sH_6MX4vLRWhISr-tborw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029126186523-ne5sb808k4mb8odtri1lan18f6uaalbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
